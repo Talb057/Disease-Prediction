@@ -1,2 +1,2 @@
-# Rainfall-Prediction
-Rainfall Prediction using Machine Learning in Python
+# Disease-Prediction
+Disease Prediction using Machine Learning in Python
